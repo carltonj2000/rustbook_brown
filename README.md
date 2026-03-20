@@ -5,6 +5,10 @@ that are not present in the rust book which it is based off.
 
 - https://rust-book.cs.brown.edu/
 
+Can view book locally without quizzes, highlights, and new feature update via:
+
+- `rustup doc --book`
+
 Progress in above book noted below.
 
 - 1/21/26
